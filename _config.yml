@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-title: Online Money Heist
-description: Make Money Online
-google_analytics: UA-172670103-1
-show_downloads: false
-exclude:
-  - README.md

@@ -1,1 +1,0 @@
-# onlinemoneyheist.github.io
