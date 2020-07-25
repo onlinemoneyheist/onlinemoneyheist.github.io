@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: Join Us
+subtitle: Connect with us!
 hero_height: is-small
 hero_link: 'https://onlinemoneyheist.github.io/'
-hero_link_text: Example Call To Action
+hero_link_text: Telegram
 callouts: joinus_callouts
 ---
