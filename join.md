@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join Us
+permalink: /join/
 subtitle: Connect with us!
 hero_height: is-small
 hero_link: 'https://onlinemoneyheist.github.io/'
