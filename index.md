@@ -8,7 +8,7 @@ hide_footer: true
 hide_hero_title: true
 head_title_only: true
 ---
-| Website |	How to earn |	Guide |	Payment Proof |	Sign-up Bonus |
+| Website |	How to earn |Guide |Payment Proof |	Sign-up Bonus |
 |---|---|---|---|---|
 | **[ySense - The best global site](https://www.ySense.com/?r=59407158)** | Surveys, tasks, offers, videos | [Paypal](https://i.imgur.com/oiGHbqH.png) | / |
 | [PrizeRebel](https://www.prizerebel.com/index.php?r=7508711) | Surveys, tasks, offers, videos | [Paypal](https://i.imgur.com/0pCGwJN.png) | Enter code 'beermoneyglobal' |
