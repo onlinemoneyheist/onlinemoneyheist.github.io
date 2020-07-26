@@ -12,13 +12,19 @@ favicon: /favicon.ico
 paginate: 5
 paginate_path: "/guides/page:num"
 
-remote_theme: chrisrhymes/bulma-clean-theme
-#theme: bulma-clean-theme
+markdown: kramdown
+
+highlighter: rouge
+
+#remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
+  - kramdown
+  - rouge
 exclude: 
   - Gemfile
   - clean-theme.gemspec
