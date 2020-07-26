@@ -9,6 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://onlinemoneyheist.ml" 
 favicon: /favicon.ico
 
+google_analytics: UA-172670103-1
+
 paginate: 5
 paginate_path: "/guides/page:num"
 
