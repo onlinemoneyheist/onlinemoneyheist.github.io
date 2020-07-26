@@ -15,7 +15,7 @@ paginate: 5
 paginate_path: "/guides/page:num"
 
 markdown: kramdown
-
+livereload: true
 highlighter: rouge
 
 remote_theme: chrisrhymes/bulma-clean-theme
@@ -27,6 +27,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown
   - rouge
+
 exclude: 
   - Gemfile
   - clean-theme.gemspec
